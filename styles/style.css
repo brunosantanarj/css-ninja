@@ -1,0 +1,16 @@
+html { box-sizing: border-box }
+*,*:before, *:after { box-sizing: inherit }
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+.course {
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    margin: 100px auto;
+}
+
+.course__title {
+    font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+}
