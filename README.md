@@ -4,22 +4,36 @@
 ## Desenvolvido por Bruno Santana
 ### Sumário
 
-* Aula 01 - Resumo sobre o surgimento do Hipertexto e a necessidade de páginas estilosas
-* Aula 02 - Critical Render Path, Como o browser trabalha com CSS ? e Reset ou Normalize ?
-* Aula 03 - A Especificidade CSS e Seletores CSS
-* Aula 04 - Box Model
+* Aula 01 - Introdução
+   * Surgimento do Hipertexto
+   * Necessidade de páginas estilosas
+   * Critical Render Path
+   * Leitura CSS pelo Browser
+   * Reset ou Normalize ?
+* Aula 02 - A Especificidade CSS e Seletores CSS
+   * Especicidade - Conceito
+   * Especificidade - Cálculo
+   * Especificidade - Performance
+   * Seletores - Classe
+   * Selectores - ID
+   * Seletores - Atributo
+   * Seletores - Pseudo-Classes
+* Aula 03 - Box Model
     * margin
     * padding
     * width
     * height
-* Aula 05 - Propriedades de Layout e Block Formatting Context
+    * background
+    * color
+    * bordas
+* Aula 04 - Propriedades de Layout e Block Formatting Context
     * display
     * float
     * overflow
     * position
-* Aula 06 - Responsive Design
-* Aula 07 - Layout com Flexbox e Grids semânticos com CSS GRID
-* Aula 08 - Trabalhando com cores, Unidades CSS e pouco mais sobre seletores
-* Aula 09 - Introdução a animações
-* Aula 10 - Padrões de Arquitetura CSS e boas práticas
-* Aula 11 - Discussão sobre Frameworks CSS: Usar ou não usar frameworks ? e Desafio Final.
+* Aula 05 - Responsive Design
+* Aula 06 - Layout com Flexbox e Grids semânticos com CSS GRID
+* Aula 07 - Trabalhando com cores, Unidades CSS e pouco mais sobre seletores
+* Aula 08 - Introdução a animações
+* Aula 09 - Padrões de Arquitetura CSS e boas práticas
+* Aula 10 - Discussão sobre Frameworks CSS: Usar ou não usar frameworks ? e Desafio Final.
