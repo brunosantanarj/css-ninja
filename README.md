@@ -5,14 +5,14 @@
 ### Sumário
 
 * Aula 01 - Introdução
-   * Surgimento do Hipertexto
-   * Necessidade de páginas estilosas
-   * Critical Render Path
+   * Surgimento do HTML
+   * Necessidade de páginas estilosas - Surgimento do CSS
+   * O que é CSS ?
    * Leitura CSS pelo Browser
    * Reset ou Normalize ?
 * Aula 02 - A Especificidade CSS e Seletores CSS
    * Especicidade - Conceito
-   * Especificidade - Cálculo
+   * Especificidade - Cálculo
    * Especificidade - Performance
    * Seletores - Classe
    * Selectores - ID
@@ -35,5 +35,6 @@
 * Aula 06 - Layout com Flexbox e Grids semânticos com CSS GRID
 * Aula 07 - Trabalhando com cores, Unidades CSS e pouco mais sobre seletores
 * Aula 08 - Introdução a animações
+    * Critical Render Path
 * Aula 09 - Padrões de Arquitetura CSS e boas práticas
 * Aula 10 - Discussão sobre Frameworks CSS: Usar ou não usar frameworks ? e Desafio Final.
